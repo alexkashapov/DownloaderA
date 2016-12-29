@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">DownloaderA</string>
+    <string name="action_button_Download">Download</string>
+    <string name="action_button_Open">Open</string>
+    <string name="status_Idle">Idle</string>
+    <string name="status_Downloading">Downloading</string>
+    <string name="status_Downloaded">Downloaded</string>
+    <string name="request_Description">Download image</string>
+    <string name="request_Title">Downloading Image</string>
 </resources>
